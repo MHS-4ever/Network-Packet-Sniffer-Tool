@@ -22,7 +22,7 @@ This repository contains a Python-based network packet analyzer tool developed u
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/MHS-4ever/CodeAlpha_Packet_Sniffer.git
+   git clone https://github.com/MHS-4ever/Network-Packet-Sniffer-Tool.git
 
 ## **Install Dependencies**
 
